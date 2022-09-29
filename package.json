@@ -1,13 +1,13 @@
 {
   "name": "real-test-cc",
   "main": "./lib/real-test-cc",
-  "version": "2.0.0",
+  "version": "1.0.0",
   "description": "A short description of your package",
   "keywords": [],
   "activationCommands": {
     "atom-workspace": "real-test-cc:toggle"
   },
-  "repository": "https://atom.io/qwerty88T/real-test-cc",
+  "repository": "https://github.com/qwerty88T/real-test-cc",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
