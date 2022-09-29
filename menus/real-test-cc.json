@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle real-test-cc",
+        "command": "real-test-cc:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "real-test-cc",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "real-test-cc:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
