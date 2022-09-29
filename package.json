@@ -7,7 +7,7 @@
   "activationCommands": {
     "atom-workspace": "real-test-cc:toggle"
   },
-  "repository": "https://github.com/qwerty88T/real-test-cc",
+  "repository": "https://atom.io/qwerty88T/real-test-cc",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
