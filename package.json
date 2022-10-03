@@ -1,7 +1,7 @@
 {
   "name": "real-test-cc",
   "main": "./lib/real-test-cc",
-  "version": "5.5.0",
+  "version": "5.7.0",
   "description": "A short description of your package",
   "keywords": [],
   "activationCommands": {
